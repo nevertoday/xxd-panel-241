@@ -1,4 +1,4 @@
 interface:
   display_name: "XXD Panel 241"
-  short_description: "标本诗学图鉴：局部精密黑白照片，缺口交给空白与脆弱的手绘轮廓"
-  default_prompt: "Use $xxd-panel-241 to transform my photograph following the complete canonical source brief."
+  short_description: "标本诗学图鉴：把主体做成一页诗意标本，一半精密黑白照片，缺口是空白里的手绘轮廓"
+  default_prompt: "Use $xxd-panel-241 to turn my photo into Poetic Specimen Study artwork."

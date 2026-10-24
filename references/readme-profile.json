@@ -1,0 +1,119 @@
+{
+  "skill_description": "XXD Panel 241｜Poetic Specimen Study: presents a photo's subject as a page from a poetic museum-style specimen catalogue — only part of the subject shown as highly detailed black-and-white photography with tactile grain, the missing part completed by large untouched white space and one fragile, imperfect hand-drawn contour — with a few isolated square texture samples as material evidence, sparse sensory words naming intangible qualities rather than anatomy, small bold lowercase grotesk labels in Swiss-style editorial typography, a thin margin rule, restrained asymmetry and slight analogue print imperfections; the look stays strictly black and white. Outputs PNG top-bottom or left-right comparisons, design-only images, or phone/tablet/desktop/watch wallpapers, from one photo or a folder. Use when the user invokes xxd-panel-241 or asks for specimen-plate, poetic taxonomy, partial monochrome photo with hand-drawn contour or Swiss editorial catalogue pages from a photo.",
+  "short_description": "标本诗学图鉴：把主体做成一页诗意标本，一半精密黑白照片，缺口是空白里的手绘轮廓",
+  "zh-CN": {
+    "name": "标本诗学图鉴",
+    "tagline": "把主体做成一页诗意标本：一部分是精密黑白照片，缺口是空白里的脆弱手绘轮廓。",
+    "look": "主体像博物馆图录里的一件标本：只有一部分以高度精细、带颗粒的黑白照片呈现，缺失的那部分用大片未触碰的空白和一条脆弱、不完美的手绘轮廓线补上。旁边散着几个独立的方形材质小样，像物证。几个稀疏的感觉词标注的是摸不到的性质，而不是解剖说明，用小而粗的小写无衬线字，按瑞士式编辑排版放置，配一条细细的边线。整页只有黑白，留白极多，构图克制地不对称，带一点模拟印刷的小误差。",
+    "traits": [
+      "标本图鉴",
+      "局部黑白照片",
+      "手绘缺口轮廓",
+      "材质小样",
+      "小写粗黑字",
+      "极端留白"
+    ],
+    "good": [
+      "形态和质地都耐看的单个对象：一片叶子、一只贝壳、一只鞋、一块石头",
+      "有材质可以取样的物件：木椅、毛衣、陶罐、羽毛",
+      "想做研究型视觉、展览图录或概念海报的照片"
+    ],
+    "poor": [
+      "需要保留色彩的照片：花束、彩色食物、彩色街景，结果只有黑白",
+      "多人或多主体的场景，这里一页只研究一个对象",
+      "想要全彩插画、铺满的图录网格、可爱贴纸或解说式信息图的需求"
+    ]
+  },
+  "en": {
+    "name": "Poetic Specimen Study",
+    "tagline": "Makes a poetic specimen page: part precise black-and-white photo, the missing part a fragile drawn contour.",
+    "look": "The subject is shown like a specimen in a museum catalogue: only part of it appears as highly detailed, grainy black-and-white photography, and the missing part is completed by large untouched white space and one fragile, imperfect hand-drawn contour. A few separate square texture samples sit nearby like evidence. Sparse sensory words name qualities you cannot touch rather than anatomy, set in small bold lowercase grotesk with Swiss-style editorial typography and a thin rule in the margin. The page stays black and white, with extreme white space, restrained asymmetry and slight analogue print imperfections.",
+    "traits": [
+      "Specimen plate",
+      "Partial monochrome photo",
+      "Hand-drawn missing contour",
+      "Texture samples",
+      "Bold lowercase grotesk",
+      "Extreme white space"
+    ],
+    "good": [
+      "Single objects with a rewarding shape and surface: a leaf, a shell, a shoe, a stone",
+      "Things with materials worth sampling: a wooden chair, a knitted jumper, a clay jar, a feather",
+      "Photos you want as research visuals, an exhibition catalogue page or a conceptual poster"
+    ],
+    "poor": [
+      "Photos where colour matters, such as bouquets, colourful food or street scenes, since the result is black and white",
+      "Scenes with several people or subjects, since each page studies a single object",
+      "Requests for full-colour illustration, a packed catalogue grid, cute stickers or explanatory infographics"
+    ]
+  },
+  "ja": {
+    "name": "詩的な標本図鑑",
+    "tagline": "主役を詩的な標本の一頁にします。一部は精密なモノクロ写真、欠けた部分は空白の中の脆い手描きの輪郭。",
+    "look": "主役は美術館の図録に載る標本のように示されます。一部だけが粒子のある精密な白黒写真で、欠けた部分は手つかずの広い白と、脆く不完全な手描きの輪郭線一本で補われます。そばには独立した正方形の素材見本がいくつか、証拠品のように置かれます。まばらな感覚の言葉は、解剖の説明ではなく触れられない性質を示し、小さく太い小文字のグロテスク体で、スイス風の編集組版に従って置かれ、余白に細い罫線が一本入ります。頁は白黒だけで、余白は極端に広く、控えめな非対称に、アナログ印刷のわずかな不完全さが残ります。",
+    "traits": [
+      "標本の図版",
+      "部分的なモノクロ写真",
+      "手描きの欠けた輪郭",
+      "素材見本",
+      "太い小文字のグロテスク",
+      "極端な余白"
+    ],
+    "good": [
+      "形と質感の見ごたえがある一つの物：葉、貝殻、靴、石",
+      "見本にしたい素材を持つ物：木の椅子、ニット、陶器の壺、羽根",
+      "リサーチ系のビジュアル、展覧会図録、コンセプトポスターにしたい写真"
+    ],
+    "poor": [
+      "色を残したい写真：花束、カラフルな料理、街並み（仕上がりは白黒だけです）",
+      "複数の人や主役がいる場面（一頁で研究するのは一つの対象だけです）",
+      "フルカラーのイラスト、詰め込んだ図録グリッド、かわいいシール、説明的なインフォグラフィックを求める場合"
+    ]
+  },
+  "ko": {
+    "name": "시적인 표본 도감",
+    "tagline": "주인공을 시적인 표본 한 페이지로 만듭니다. 일부는 정밀한 흑백 사진, 빈 부분은 여백 속 연약한 손그림 윤곽.",
+    "look": "주인공은 박물관 도록 속 표본처럼 놓입니다. 일부만 입자감 있는 정밀한 흑백 사진으로 보이고, 빠진 부분은 손대지 않은 넓은 흰 여백과 연약하고 불완전한 손그림 윤곽선 하나로 채워집니다. 옆에는 따로 떨어진 정사각형 재질 견본 몇 개가 증거물처럼 놓입니다. 드문드문한 감각어는 해부 설명이 아니라 만질 수 없는 성질을 가리키며, 작고 굵은 소문자 그로테스크 서체로 스위스식 편집 조판에 따라 놓이고, 여백에는 가는 선 하나가 그어집니다. 페이지는 흑백뿐이며 여백은 극단적으로 넓고, 절제된 비대칭에 아날로그 인쇄의 작은 흠이 남습니다.",
+    "traits": [
+      "표본 도판",
+      "부분 흑백 사진",
+      "손그림 빈 윤곽",
+      "재질 견본",
+      "굵은 소문자 그로테스크",
+      "극단적 여백"
+    ],
+    "good": [
+      "형태와 질감이 볼만한 하나의 사물: 나뭇잎, 조개껍데기, 신발, 돌",
+      "견본으로 떼어 낼 재질이 있는 물건: 나무 의자, 니트, 도자기 항아리, 깃털",
+      "리서치 비주얼, 전시 도록, 콘셉트 포스터로 쓰고 싶은 사진"
+    ],
+    "poor": [
+      "색이 중요한 사진: 꽃다발, 알록달록한 음식, 거리 풍경(결과는 흑백뿐입니다)",
+      "여러 사람이나 여러 주인공이 있는 장면(한 페이지에서 하나의 대상만 다룹니다)",
+      "풀컬러 일러스트, 꽉 찬 도록 그리드, 귀여운 스티커, 설명식 인포그래픽을 원하는 경우"
+    ]
+  },
+  "ar": {
+    "name": "دراسة عيّنة شعرية",
+    "tagline": "يجعل العنصر صفحة عيّنة شعرية: جزء منه صورة دقيقة بالأبيض والأسود، والجزء الناقص خط هش مرسوم في الأبيض المفتوح.",
+    "look": "يُعرض العنصر كأنه عيّنة في دليل متحف: لا يظهر منه إلا جزء بتصوير أبيض وأسود شديد الدقة محبب، ويُستكمل الجزء الناقص بمساحة بيضاء واسعة لم تُمسّ وخط واحد هش غير متقن مرسوم باليد. وبجانبه بضع عيّنات مربعة منفصلة من الخامات كأنها أدلة مادية. تصف كلمات حسّية متفرقة صفات لا تُلمس لا تشريحاً حرفياً، بخط غروتسك صغير عريض بحروف لاتينية صغيرة، وفق تنضيد تحريري بالأسلوب السويسري، مع خط رفيع في الهامش. تبقى الصفحة بالأبيض والأسود فقط، بفراغ أبيض بالغ الاتساع وعدم تناظر هادئ وعيوب طباعة تناظرية طفيفة.",
+    "traits": [
+      "لوحة عيّنات",
+      "صورة أحادية جزئية",
+      "حدّ ناقص مرسوم باليد",
+      "عيّنات خامات",
+      "غروتسك عريض بحروف صغيرة",
+      "فراغ بالغ الاتساع"
+    ],
+    "good": [
+      "شيء واحد يستحق شكله وسطحه التأمل: ورقة شجر، صدفة، حذاء، حجر",
+      "أشياء فيها خامات تستحق أخذ عيّنة منها: كرسي خشبي، كنزة صوف، جرة فخار، ريشة",
+      "صور تريدها مادة بصرية بحثية أو صفحة في دليل معرض أو ملصقاً مفاهيمياً"
+    ],
+    "poor": [
+      "صور يهمّ فيها اللون كباقات الزهور والطعام الملون ومشاهد الشوارع، إذ تأتي النتيجة بالأبيض والأسود",
+      "مشاهد فيها عدة أشخاص أو عناصر، فكل صفحة تدرس شيئاً واحداً",
+      "طلب رسم كامل الألوان أو شبكة دليل مكتظة أو ملصقات لطيفة أو رسوم معلومات شارحة"
+    ]
+  }
+}
